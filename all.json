@@ -1147,10 +1147,220 @@
       "count": 83,
       "startPosition": 45913,
       "endPosition": 45995
+    },
+    {
+      "index": 164,
+      "path": "chunks/chunk_164.json",
+      "count": 90,
+      "startPosition": 45996,
+      "endPosition": 46085
+    },
+    {
+      "index": 165,
+      "path": "chunks/chunk_165.json",
+      "count": 90,
+      "startPosition": 46086,
+      "endPosition": 46175
+    },
+    {
+      "index": 166,
+      "path": "chunks/chunk_166.json",
+      "count": 90,
+      "startPosition": 46176,
+      "endPosition": 46265
+    },
+    {
+      "index": 167,
+      "path": "chunks/chunk_167.json",
+      "count": 90,
+      "startPosition": 46266,
+      "endPosition": 46355
+    },
+    {
+      "index": 168,
+      "path": "chunks/chunk_168.json",
+      "count": 90,
+      "startPosition": 46356,
+      "endPosition": 46445
+    },
+    {
+      "index": 169,
+      "path": "chunks/chunk_169.json",
+      "count": 89,
+      "startPosition": 46446,
+      "endPosition": 46534
+    },
+    {
+      "index": 170,
+      "path": "chunks/chunk_170.json",
+      "count": 89,
+      "startPosition": 46535,
+      "endPosition": 46623
+    },
+    {
+      "index": 171,
+      "path": "chunks/chunk_171.json",
+      "count": 89,
+      "startPosition": 46624,
+      "endPosition": 46712
+    },
+    {
+      "index": 172,
+      "path": "chunks/chunk_172.json",
+      "count": 89,
+      "startPosition": 46713,
+      "endPosition": 46801
+    },
+    {
+      "index": 173,
+      "path": "chunks/chunk_173.json",
+      "count": 89,
+      "startPosition": 46802,
+      "endPosition": 46890
+    },
+    {
+      "index": 174,
+      "path": "chunks/chunk_174.json",
+      "count": 89,
+      "startPosition": 46891,
+      "endPosition": 46979
+    },
+    {
+      "index": 175,
+      "path": "chunks/chunk_175.json",
+      "count": 89,
+      "startPosition": 46980,
+      "endPosition": 47068
+    },
+    {
+      "index": 176,
+      "path": "chunks/chunk_176.json",
+      "count": 88,
+      "startPosition": 47069,
+      "endPosition": 47156
+    },
+    {
+      "index": 177,
+      "path": "chunks/chunk_177.json",
+      "count": 88,
+      "startPosition": 47157,
+      "endPosition": 47244
+    },
+    {
+      "index": 178,
+      "path": "chunks/chunk_178.json",
+      "count": 88,
+      "startPosition": 47245,
+      "endPosition": 47332
+    },
+    {
+      "index": 179,
+      "path": "chunks/chunk_179.json",
+      "count": 88,
+      "startPosition": 47333,
+      "endPosition": 47420
+    },
+    {
+      "index": 180,
+      "path": "chunks/chunk_180.json",
+      "count": 88,
+      "startPosition": 47421,
+      "endPosition": 47508
+    },
+    {
+      "index": 181,
+      "path": "chunks/chunk_181.json",
+      "count": 88,
+      "startPosition": 47509,
+      "endPosition": 47596
+    },
+    {
+      "index": 182,
+      "path": "chunks/chunk_182.json",
+      "count": 87,
+      "startPosition": 47597,
+      "endPosition": 47683
+    },
+    {
+      "index": 183,
+      "path": "chunks/chunk_183.json",
+      "count": 87,
+      "startPosition": 47684,
+      "endPosition": 47770
+    },
+    {
+      "index": 184,
+      "path": "chunks/chunk_184.json",
+      "count": 87,
+      "startPosition": 47771,
+      "endPosition": 47857
+    },
+    {
+      "index": 185,
+      "path": "chunks/chunk_185.json",
+      "count": 87,
+      "startPosition": 47858,
+      "endPosition": 47944
+    },
+    {
+      "index": 186,
+      "path": "chunks/chunk_186.json",
+      "count": 87,
+      "startPosition": 47945,
+      "endPosition": 48031
+    },
+    {
+      "index": 187,
+      "path": "chunks/chunk_187.json",
+      "count": 87,
+      "startPosition": 48032,
+      "endPosition": 48118
+    },
+    {
+      "index": 188,
+      "path": "chunks/chunk_188.json",
+      "count": 87,
+      "startPosition": 48119,
+      "endPosition": 48205
+    },
+    {
+      "index": 189,
+      "path": "chunks/chunk_189.json",
+      "count": 86,
+      "startPosition": 48206,
+      "endPosition": 48291
+    },
+    {
+      "index": 190,
+      "path": "chunks/chunk_190.json",
+      "count": 86,
+      "startPosition": 48292,
+      "endPosition": 48377
+    },
+    {
+      "index": 191,
+      "path": "chunks/chunk_191.json",
+      "count": 86,
+      "startPosition": 48378,
+      "endPosition": 48463
+    },
+    {
+      "index": 192,
+      "path": "chunks/chunk_192.json",
+      "count": 86,
+      "startPosition": 48464,
+      "endPosition": 48549
+    },
+    {
+      "index": 193,
+      "path": "chunks/chunk_193.json",
+      "count": 26,
+      "startPosition": 48550,
+      "endPosition": 48575
     }
   ],
-  "totalNumbers": 45995,
-  "lastChunkCount": 83,
-  "lastUpdated": "2025-12-18T00:33:39.412Z",
-  "computedCount": 47841
+  "totalNumbers": 48575,
+  "lastChunkCount": 26,
+  "lastUpdated": "2025-12-18T00:38:36.438Z",
+  "computedCount": 50827
 }
