@@ -1140,10 +1140,101 @@
       "count": 8,
       "startPosition": 6417,
       "endPosition": 6424
+    },
+    {
+      "index": 163,
+      "path": "chunks/chunk_163.json",
+      "count": 41,
+      "startPosition": 6425,
+      "endPosition": 6465
+    },
+    {
+      "index": 164,
+      "path": "chunks/chunk_164.json",
+      "count": 41,
+      "startPosition": 6466,
+      "endPosition": 6506
+    },
+    {
+      "index": 165,
+      "path": "chunks/chunk_165.json",
+      "count": 41,
+      "startPosition": 6507,
+      "endPosition": 6547
+    },
+    {
+      "index": 166,
+      "path": "chunks/chunk_166.json",
+      "count": 41,
+      "startPosition": 6548,
+      "endPosition": 6588
+    },
+    {
+      "index": 167,
+      "path": "chunks/chunk_167.json",
+      "count": 41,
+      "startPosition": 6589,
+      "endPosition": 6629
+    },
+    {
+      "index": 168,
+      "path": "chunks/chunk_168.json",
+      "count": 41,
+      "startPosition": 6630,
+      "endPosition": 6670
+    },
+    {
+      "index": 169,
+      "path": "chunks/chunk_169.json",
+      "count": 41,
+      "startPosition": 6671,
+      "endPosition": 6711
+    },
+    {
+      "index": 170,
+      "path": "chunks/chunk_170.json",
+      "count": 41,
+      "startPosition": 6712,
+      "endPosition": 6752
+    },
+    {
+      "index": 171,
+      "path": "chunks/chunk_171.json",
+      "count": 41,
+      "startPosition": 6753,
+      "endPosition": 6793
+    },
+    {
+      "index": 172,
+      "path": "chunks/chunk_172.json",
+      "count": 41,
+      "startPosition": 6794,
+      "endPosition": 6834
+    },
+    {
+      "index": 173,
+      "path": "chunks/chunk_173.json",
+      "count": 41,
+      "startPosition": 6835,
+      "endPosition": 6875
+    },
+    {
+      "index": 174,
+      "path": "chunks/chunk_174.json",
+      "count": 41,
+      "startPosition": 6876,
+      "endPosition": 6916
+    },
+    {
+      "index": 175,
+      "path": "chunks/chunk_175.json",
+      "count": 24,
+      "startPosition": 6917,
+      "endPosition": 6940
     }
   ],
-  "totalNumbers": 6424,
-  "lastChunkCount": 8,
-  "lastUpdated": "2025-12-18T16:08:23.459Z",
-  "computedCount": 106404
+  "totalNumbers": 6940,
+  "lastChunkCount": 24,
+  "lastUpdated": "2025-12-18T16:09:30.298Z",
+  "computedCount": 106916
 }
