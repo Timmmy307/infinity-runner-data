@@ -6740,10 +6740,17 @@
       "count": 18,
       "startPosition": 33333,
       "endPosition": 33350
+    },
+    {
+      "index": 963,
+      "path": "chunks/chunk_963.json",
+      "count": 7,
+      "startPosition": 33351,
+      "endPosition": 33357
     }
   ],
-  "totalNumbers": 33350,
-  "lastChunkCount": 18,
-  "lastUpdated": "2025-12-18T17:01:26.611Z",
-  "computedCount": 133380
+  "totalNumbers": 33357,
+  "lastChunkCount": 7,
+  "lastUpdated": "2025-12-18T17:01:29.140Z",
+  "computedCount": 133390
 }
