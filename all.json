@@ -2946,10 +2946,108 @@
       "count": 6,
       "startPosition": 15717,
       "endPosition": 15722
+    },
+    {
+      "index": 421,
+      "path": "chunks/chunk_421.json",
+      "count": 37,
+      "startPosition": 15723,
+      "endPosition": 15759
+    },
+    {
+      "index": 422,
+      "path": "chunks/chunk_422.json",
+      "count": 37,
+      "startPosition": 15760,
+      "endPosition": 15796
+    },
+    {
+      "index": 423,
+      "path": "chunks/chunk_423.json",
+      "count": 37,
+      "startPosition": 15797,
+      "endPosition": 15833
+    },
+    {
+      "index": 424,
+      "path": "chunks/chunk_424.json",
+      "count": 37,
+      "startPosition": 15834,
+      "endPosition": 15870
+    },
+    {
+      "index": 425,
+      "path": "chunks/chunk_425.json",
+      "count": 37,
+      "startPosition": 15871,
+      "endPosition": 15907
+    },
+    {
+      "index": 426,
+      "path": "chunks/chunk_426.json",
+      "count": 37,
+      "startPosition": 15908,
+      "endPosition": 15944
+    },
+    {
+      "index": 427,
+      "path": "chunks/chunk_427.json",
+      "count": 37,
+      "startPosition": 15945,
+      "endPosition": 15981
+    },
+    {
+      "index": 428,
+      "path": "chunks/chunk_428.json",
+      "count": 37,
+      "startPosition": 15982,
+      "endPosition": 16018
+    },
+    {
+      "index": 429,
+      "path": "chunks/chunk_429.json",
+      "count": 37,
+      "startPosition": 16019,
+      "endPosition": 16055
+    },
+    {
+      "index": 430,
+      "path": "chunks/chunk_430.json",
+      "count": 37,
+      "startPosition": 16056,
+      "endPosition": 16092
+    },
+    {
+      "index": 431,
+      "path": "chunks/chunk_431.json",
+      "count": 37,
+      "startPosition": 16093,
+      "endPosition": 16129
+    },
+    {
+      "index": 432,
+      "path": "chunks/chunk_432.json",
+      "count": 37,
+      "startPosition": 16130,
+      "endPosition": 16166
+    },
+    {
+      "index": 433,
+      "path": "chunks/chunk_433.json",
+      "count": 37,
+      "startPosition": 16167,
+      "endPosition": 16203
+    },
+    {
+      "index": 434,
+      "path": "chunks/chunk_434.json",
+      "count": 28,
+      "startPosition": 16204,
+      "endPosition": 16231
     }
   ],
-  "totalNumbers": 15722,
-  "lastChunkCount": 6,
-  "lastUpdated": "2025-12-18T16:25:26.537Z",
-  "computedCount": 115730
+  "totalNumbers": 16231,
+  "lastChunkCount": 28,
+  "lastUpdated": "2025-12-18T16:26:21.974Z",
+  "computedCount": 116236
 }
