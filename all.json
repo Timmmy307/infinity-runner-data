@@ -4304,10 +4304,115 @@
       "count": 6,
       "startPosition": 22253,
       "endPosition": 22258
+    },
+    {
+      "index": 615,
+      "path": "chunks/chunk_615.json",
+      "count": 35,
+      "startPosition": 22259,
+      "endPosition": 22293
+    },
+    {
+      "index": 616,
+      "path": "chunks/chunk_616.json",
+      "count": 35,
+      "startPosition": 22294,
+      "endPosition": 22328
+    },
+    {
+      "index": 617,
+      "path": "chunks/chunk_617.json",
+      "count": 35,
+      "startPosition": 22329,
+      "endPosition": 22363
+    },
+    {
+      "index": 618,
+      "path": "chunks/chunk_618.json",
+      "count": 35,
+      "startPosition": 22364,
+      "endPosition": 22398
+    },
+    {
+      "index": 619,
+      "path": "chunks/chunk_619.json",
+      "count": 35,
+      "startPosition": 22399,
+      "endPosition": 22433
+    },
+    {
+      "index": 620,
+      "path": "chunks/chunk_620.json",
+      "count": 35,
+      "startPosition": 22434,
+      "endPosition": 22468
+    },
+    {
+      "index": 621,
+      "path": "chunks/chunk_621.json",
+      "count": 35,
+      "startPosition": 22469,
+      "endPosition": 22503
+    },
+    {
+      "index": 622,
+      "path": "chunks/chunk_622.json",
+      "count": 35,
+      "startPosition": 22504,
+      "endPosition": 22538
+    },
+    {
+      "index": 623,
+      "path": "chunks/chunk_623.json",
+      "count": 35,
+      "startPosition": 22539,
+      "endPosition": 22573
+    },
+    {
+      "index": 624,
+      "path": "chunks/chunk_624.json",
+      "count": 35,
+      "startPosition": 22574,
+      "endPosition": 22608
+    },
+    {
+      "index": 625,
+      "path": "chunks/chunk_625.json",
+      "count": 35,
+      "startPosition": 22609,
+      "endPosition": 22643
+    },
+    {
+      "index": 626,
+      "path": "chunks/chunk_626.json",
+      "count": 35,
+      "startPosition": 22644,
+      "endPosition": 22678
+    },
+    {
+      "index": 627,
+      "path": "chunks/chunk_627.json",
+      "count": 35,
+      "startPosition": 22679,
+      "endPosition": 22713
+    },
+    {
+      "index": 628,
+      "path": "chunks/chunk_628.json",
+      "count": 35,
+      "startPosition": 22714,
+      "endPosition": 22748
+    },
+    {
+      "index": 629,
+      "path": "chunks/chunk_629.json",
+      "count": 20,
+      "startPosition": 22749,
+      "endPosition": 22768
     }
   ],
-  "totalNumbers": 22258,
-  "lastChunkCount": 6,
-  "lastUpdated": "2025-12-18T16:37:20.347Z",
-  "computedCount": 122283
+  "totalNumbers": 22768,
+  "lastChunkCount": 20,
+  "lastUpdated": "2025-12-18T16:38:13.656Z",
+  "computedCount": 122789
 }
