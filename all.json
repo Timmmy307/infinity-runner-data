@@ -237,10 +237,94 @@
       "count": 10,
       "startPosition": 1402,
       "endPosition": 1411
+    },
+    {
+      "index": 34,
+      "path": "chunks/chunk_34.json",
+      "count": 43,
+      "startPosition": 1412,
+      "endPosition": 1454
+    },
+    {
+      "index": 35,
+      "path": "chunks/chunk_35.json",
+      "count": 43,
+      "startPosition": 1455,
+      "endPosition": 1497
+    },
+    {
+      "index": 36,
+      "path": "chunks/chunk_36.json",
+      "count": 43,
+      "startPosition": 1498,
+      "endPosition": 1540
+    },
+    {
+      "index": 37,
+      "path": "chunks/chunk_37.json",
+      "count": 43,
+      "startPosition": 1541,
+      "endPosition": 1583
+    },
+    {
+      "index": 38,
+      "path": "chunks/chunk_38.json",
+      "count": 43,
+      "startPosition": 1584,
+      "endPosition": 1626
+    },
+    {
+      "index": 39,
+      "path": "chunks/chunk_39.json",
+      "count": 43,
+      "startPosition": 1627,
+      "endPosition": 1669
+    },
+    {
+      "index": 40,
+      "path": "chunks/chunk_40.json",
+      "count": 43,
+      "startPosition": 1670,
+      "endPosition": 1712
+    },
+    {
+      "index": 41,
+      "path": "chunks/chunk_41.json",
+      "count": 43,
+      "startPosition": 1713,
+      "endPosition": 1755
+    },
+    {
+      "index": 42,
+      "path": "chunks/chunk_42.json",
+      "count": 43,
+      "startPosition": 1756,
+      "endPosition": 1798
+    },
+    {
+      "index": 43,
+      "path": "chunks/chunk_43.json",
+      "count": 43,
+      "startPosition": 1799,
+      "endPosition": 1841
+    },
+    {
+      "index": 44,
+      "path": "chunks/chunk_44.json",
+      "count": 43,
+      "startPosition": 1842,
+      "endPosition": 1884
+    },
+    {
+      "index": 45,
+      "path": "chunks/chunk_45.json",
+      "count": 41,
+      "startPosition": 1885,
+      "endPosition": 1925
     }
   ],
-  "totalNumbers": 1411,
-  "lastChunkCount": 10,
-  "lastUpdated": "2025-12-18T02:27:58.345Z",
-  "computedCount": 100864
+  "totalNumbers": 1925,
+  "lastChunkCount": 41,
+  "lastUpdated": "2025-12-18T15:59:23.252Z",
+  "computedCount": 101364
 }
