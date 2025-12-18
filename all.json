@@ -1007,10 +1007,17 @@
       "count": 22,
       "startPosition": 5705,
       "endPosition": 5726
+    },
+    {
+      "index": 144,
+      "path": "chunks/chunk_144.json",
+      "count": 14,
+      "startPosition": 5727,
+      "endPosition": 5740
     }
   ],
-  "totalNumbers": 5726,
-  "lastChunkCount": 22,
-  "lastUpdated": "2025-12-18T16:07:18.268Z",
-  "computedCount": 105704
+  "totalNumbers": 5740,
+  "lastChunkCount": 14,
+  "lastUpdated": "2025-12-18T16:07:21.039Z",
+  "computedCount": 105718
 }
