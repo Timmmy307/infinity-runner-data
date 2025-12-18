@@ -2274,10 +2274,17 @@
       "count": 3,
       "startPosition": 12430,
       "endPosition": 12432
+    },
+    {
+      "index": 325,
+      "path": "chunks/chunk_325.json",
+      "count": 6,
+      "startPosition": 12433,
+      "endPosition": 12438
     }
   ],
-  "totalNumbers": 12432,
-  "lastChunkCount": 3,
-  "lastUpdated": "2025-12-18T16:19:28.402Z",
-  "computedCount": 112431
+  "totalNumbers": 12438,
+  "lastChunkCount": 6,
+  "lastUpdated": "2025-12-18T16:19:30.800Z",
+  "computedCount": 112441
 }
