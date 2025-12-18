@@ -3492,10 +3492,17 @@
       "count": 31,
       "startPosition": 18442,
       "endPosition": 18472
+    },
+    {
+      "index": 499,
+      "path": "chunks/chunk_499.json",
+      "count": 8,
+      "startPosition": 18473,
+      "endPosition": 18480
     }
   ],
-  "totalNumbers": 18472,
-  "lastChunkCount": 31,
-  "lastUpdated": "2025-12-18T16:30:24.640Z",
-  "computedCount": 118480
+  "totalNumbers": 18480,
+  "lastChunkCount": 8,
+  "lastUpdated": "2025-12-18T16:30:27.141Z",
+  "computedCount": 118492
 }
